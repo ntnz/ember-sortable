@@ -58,7 +58,7 @@ $ ember install ember-sortable
       <span class="handle" {{sortable-handle}}>&varr;</span>
     </li>
   {{/each}}
-</ol>>
+</ol>
 ```
 
 The `onChange` action is called with two arguments:
@@ -123,7 +123,7 @@ The modifier version does not support `groupModel`, use the currying of `action`
       <span class="handle" {{sortable-handle}}>&varr;</span>
     </li>
   {{/each}}
-</ol>>
+</ol>
 ```
 
 
